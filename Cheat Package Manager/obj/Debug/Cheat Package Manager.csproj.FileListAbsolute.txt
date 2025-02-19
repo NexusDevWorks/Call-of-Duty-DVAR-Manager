@@ -1,0 +1,46 @@
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\Cheat Package Manager.exe.config
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\Cheat Package Manager.exe
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\Cheat Package Manager.pdb
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.BonusSkins.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\JRPC.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.csproj.AssemblyReference.cache
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat_Package_Manager.Form1.resources
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat_Package_Manager.Properties.Resources.resources
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.csproj.GenerateResource.cache
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.exe.licenses
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.csproj.CoreCompileInputs.cache
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Pa.6D58B294.Up2Date
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.exe
+C:\Users\Nexus\source\repos\Cheat Package Manager\Cheat Package Manager\obj\Debug\Cheat Package Manager.pdb
